@@ -41,7 +41,11 @@ Click the button below to fork the Mega Bot repository to your GitHub account:
 
 Dowload the Zip file and easily connect it to your WhatsApp account by pair code from your panel or VPS.
 
-
+<div align="center">
+  <a href="https://github.com/mradminblue/dachxmdlite/archive/refs/heads/main.zip/" target="_blank">
+    <img src="https://img.shields.io/badge/ DACHXMD-LITE-0078E7?style=for-the-badge" alt="DACH XMD-LITE"/>
+  </a>
+</div>
 
 
 For further customization and setup guidance, click the button below:
