@@ -53,11 +53,11 @@ For further customization and setup guidance, click the button below:
   </a>
 </div>
 
-### Deploy on VPS
+### Deploy For Free
 
 <div align="center">
-  <a href="https://client.petrosky.io/" target="_blank">
-    <img src="https://img.shields.io/badge/petrosky vps-0078E7?style=for-the-badge" alt="petrosky vps"/>
+  <a href="[https://bot-hosting.net/?aff=1324769334614298835)/" target="_blank">
+    <img src="https://img.shields.io/badge/ BOTHOSTINGNET-0078E7?style=for-the-badge" alt="BOTHOSTINGNET"/>
   </a>
 </div>
 
