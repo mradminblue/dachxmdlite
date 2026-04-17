@@ -72,9 +72,9 @@ For further customization and setup guidance, click the button below:
 
 <div align="center">
   <a href="https://t.me/a_d_m_i_n_b_l_u_e">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
+    <img src="https://img.shields.io/badge/My%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel">
+  <a href="Https://whatsapp.com/channel/0029Vb6RoNb0bIdgZPwcst2Y">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
